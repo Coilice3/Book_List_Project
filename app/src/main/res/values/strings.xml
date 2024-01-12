@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book List Project</string>
+    <string name="comedy">Comedy</string>
+    <string name="cartoon">Cartoon</string>
+    <string name="action">Action</string>
+    <string name="romance">Romance</string>
+    <string name="horror">Horror</string>
+    <string name="book_content_description">%s details</string>
+</resources>
